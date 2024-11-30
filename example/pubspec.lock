@@ -59,9 +59,11 @@ packages:
   device_info_platform_interface:
     dependency: transitive
     description:
-      path: "../../device_info_platform_interface"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "4e02bff84f6606e94f18acad2d8ebec2a8a852c2"
+      url: "https://github.com/ericFlutterast/device_info_platform_interface.git"
+    source: git
     version: "0.0.1"
   fake_async:
     dependency: transitive
